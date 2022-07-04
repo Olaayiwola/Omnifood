@@ -56,7 +56,10 @@ Spacing system
 
 html {
   font-size: 62.5%;
+<<<<<<< HEAD
   overflow-x: hidden;
+=======
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
 }
 
 body {
@@ -65,7 +68,10 @@ body {
   font-size: 1rem;
   line-height: 1;
   color: #555;
+<<<<<<< HEAD
   overflow-x: hidden;
+=======
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
 }
 
 .heading-primary,
@@ -125,7 +131,10 @@ body {
   display: flex;
   align-items: center;
   gap: 1.6rem;
+<<<<<<< HEAD
   line-height: 1.2;
+=======
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
 }
 .list-icon {
   width: 3rem;
@@ -141,6 +150,7 @@ body {
 //   font-weight: 500;
 // }
 
+<<<<<<< HEAD
 // MOBILE
 .btn-mobile-nav {
   border: none;
@@ -157,6 +167,8 @@ body {
   display: none;
 }
 
+=======
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
 // Component styles
 .section__hero {
   background-color: #fdf2e9;
@@ -165,7 +177,11 @@ body {
 .hero {
   max-width: 130rem;
   margin: 0 auto;
+<<<<<<< HEAD
   padding: 0 3.2rem;
+=======
+  padding: 3.2rem;
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 9.6rem;
@@ -220,7 +236,11 @@ body {
 .main-nav__list {
   list-style: none;
   display: flex;
+<<<<<<< HEAD
   gap: 4.8rem;
+=======
+  gap: 3.2rem;
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
   align-items: center;
 }
 
@@ -636,7 +656,11 @@ body {
   gap: 2.4rem;
 }
 
+<<<<<<< HEAD
 .social-links ion-icon {
+=======
+.social-links .ion-icon {
+>>>>>>> bb7115452bc253e50d998631bf4cbbae9fe91f7a
   height: 2.4rem;
   width: 2.4rem;
 }
